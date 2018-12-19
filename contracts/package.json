@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "truffle": "^4.1.7"
+    "truffle": "^4.1.14"
   },
   "devDependencies": {
     "truffle-flattener": "^1.2.3"
