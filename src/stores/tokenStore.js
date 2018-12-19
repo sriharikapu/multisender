@@ -3,7 +3,7 @@ import ERC20ABI from '../abis/ERC20ABI'
 import StormMultiSenderABI from '../abis/StormMultisender'
 import Web3Utils from 'web3-utils';
 
-const BN = require('bignumber.js');
+const BN = require('bignumber');
 function add(a, b) {
   return new BN(a).plus(new BN(b));
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import ReactJson from 'react-json-view'
 import { inject, observer } from "mobx-react";
-import BN from 'bignumber.js'
+import BN from 'bignumber'
 import swal from 'sweetalert';
 import Select from 'react-select';
 

@@ -5,7 +5,7 @@ import MultiSenderAbi from "../abis/StormMultisender"
 import Web3 from "web3";
 import { observer } from "mobx-react";
 import swal from 'sweetalert';
-const BN = require('bignumber.js');
+const BN = require('bignumber');
 
 
 class TxStore {
