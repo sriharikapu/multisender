@@ -30,7 +30,8 @@
     "store2": "^2.7.0",
     "sweetalert": "^2.1.2",
     "truffle": "^5.0.0",
-    "web3": "^1.0.0-beta.37"
+    "web3": "^1.0.0-beta.37",
+    "web3-utils": "^1.0.0-beta.37"
   },
   "scripts": {
     "build-css": "node-sass-chokidar src/assets/stylesheets/application.scss -o src/assets/stylesheets --output-style=compressed",
